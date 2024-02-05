@@ -38,11 +38,6 @@
   background-color: #898ab9;
 }
 
-.cell:hover {
-    background-color: #f0f0f0;
-}
-
-
 .restBtn {
     margin: 20px;
     width: 306px;
